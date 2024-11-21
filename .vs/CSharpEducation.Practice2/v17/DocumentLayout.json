@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\pohvi\\source\\repos\\CSharpEducation.Practice2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C8BFFDD-E264-41C7-93E3-2F78EFADD93D}|Taskk20-21\\Taskk20-21.csproj|d:\\pohvi\\source\\repos\\csharpeducation.practice2\\taskk20-21\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C8BFFDD-E264-41C7-93E3-2F78EFADD93D}|Taskk20-21\\Taskk20-21.csproj|solutionrelative:taskk20-21\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\pohvi\\source\\repos\\CSharpEducation.Practice2\\Taskk20-21\\Program.cs",
+              "RelativeDocumentMoniker": "Taskk20-21\\Program.cs",
+              "ToolTip": "D:\\pohvi\\source\\repos\\CSharpEducation.Practice2\\Taskk20-21\\Program.cs",
+              "RelativeToolTip": "Taskk20-21\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T13:56:10.933Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

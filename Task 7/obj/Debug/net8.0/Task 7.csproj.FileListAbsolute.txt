@@ -1,0 +1,4 @@
+D:\pohvi\source\repos\CSharpEducation.Practice2\Task 7\obj\Debug\net8.0\Task 7.GeneratedMSBuildEditorConfig.editorconfig
+D:\pohvi\source\repos\CSharpEducation.Practice2\Task 7\obj\Debug\net8.0\Task 7.AssemblyInfoInputs.cache
+D:\pohvi\source\repos\CSharpEducation.Practice2\Task 7\obj\Debug\net8.0\Task 7.AssemblyInfo.cs
+D:\pohvi\source\repos\CSharpEducation.Practice2\Task 7\obj\Debug\net8.0\Task 7.csproj.CoreCompileInputs.cache

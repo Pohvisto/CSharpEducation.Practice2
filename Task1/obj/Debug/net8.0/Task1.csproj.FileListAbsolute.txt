@@ -1,0 +1,14 @@
+D:\pohvi\source\repos\CSharpEducation.Practice2\Task1\bin\Debug\net8.0\Task1.exe
+D:\pohvi\source\repos\CSharpEducation.Practice2\Task1\bin\Debug\net8.0\Task1.deps.json
+D:\pohvi\source\repos\CSharpEducation.Practice2\Task1\bin\Debug\net8.0\Task1.runtimeconfig.json
+D:\pohvi\source\repos\CSharpEducation.Practice2\Task1\bin\Debug\net8.0\Task1.dll
+D:\pohvi\source\repos\CSharpEducation.Practice2\Task1\bin\Debug\net8.0\Task1.pdb
+D:\pohvi\source\repos\CSharpEducation.Practice2\Task1\obj\Debug\net8.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+D:\pohvi\source\repos\CSharpEducation.Practice2\Task1\obj\Debug\net8.0\Task1.AssemblyInfoInputs.cache
+D:\pohvi\source\repos\CSharpEducation.Practice2\Task1\obj\Debug\net8.0\Task1.AssemblyInfo.cs
+D:\pohvi\source\repos\CSharpEducation.Practice2\Task1\obj\Debug\net8.0\Task1.csproj.CoreCompileInputs.cache
+D:\pohvi\source\repos\CSharpEducation.Practice2\Task1\obj\Debug\net8.0\Task1.dll
+D:\pohvi\source\repos\CSharpEducation.Practice2\Task1\obj\Debug\net8.0\refint\Task1.dll
+D:\pohvi\source\repos\CSharpEducation.Practice2\Task1\obj\Debug\net8.0\Task1.pdb
+D:\pohvi\source\repos\CSharpEducation.Practice2\Task1\obj\Debug\net8.0\Task1.genruntimeconfig.cache
+D:\pohvi\source\repos\CSharpEducation.Practice2\Task1\obj\Debug\net8.0\ref\Task1.dll

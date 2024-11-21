@@ -1,0 +1,14 @@
+D:\pohvi\source\repos\CSharpEducation.Practice2\Taskk19\bin\Debug\net8.0\Taskk19.exe
+D:\pohvi\source\repos\CSharpEducation.Practice2\Taskk19\bin\Debug\net8.0\Taskk19.deps.json
+D:\pohvi\source\repos\CSharpEducation.Practice2\Taskk19\bin\Debug\net8.0\Taskk19.runtimeconfig.json
+D:\pohvi\source\repos\CSharpEducation.Practice2\Taskk19\bin\Debug\net8.0\Taskk19.dll
+D:\pohvi\source\repos\CSharpEducation.Practice2\Taskk19\bin\Debug\net8.0\Taskk19.pdb
+D:\pohvi\source\repos\CSharpEducation.Practice2\Taskk19\obj\Debug\net8.0\Taskk19.GeneratedMSBuildEditorConfig.editorconfig
+D:\pohvi\source\repos\CSharpEducation.Practice2\Taskk19\obj\Debug\net8.0\Taskk19.AssemblyInfoInputs.cache
+D:\pohvi\source\repos\CSharpEducation.Practice2\Taskk19\obj\Debug\net8.0\Taskk19.AssemblyInfo.cs
+D:\pohvi\source\repos\CSharpEducation.Practice2\Taskk19\obj\Debug\net8.0\Taskk19.csproj.CoreCompileInputs.cache
+D:\pohvi\source\repos\CSharpEducation.Practice2\Taskk19\obj\Debug\net8.0\Taskk19.dll
+D:\pohvi\source\repos\CSharpEducation.Practice2\Taskk19\obj\Debug\net8.0\refint\Taskk19.dll
+D:\pohvi\source\repos\CSharpEducation.Practice2\Taskk19\obj\Debug\net8.0\Taskk19.pdb
+D:\pohvi\source\repos\CSharpEducation.Practice2\Taskk19\obj\Debug\net8.0\Taskk19.genruntimeconfig.cache
+D:\pohvi\source\repos\CSharpEducation.Practice2\Taskk19\obj\Debug\net8.0\ref\Taskk19.dll

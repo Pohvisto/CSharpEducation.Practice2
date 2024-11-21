@@ -1,0 +1,14 @@
+D:\pohvi\source\repos\CSharpEducation.Practice2\ConsoleApp1\obj\Debug\net8.0\Task5.GeneratedMSBuildEditorConfig.editorconfig
+D:\pohvi\source\repos\CSharpEducation.Practice2\ConsoleApp1\obj\Debug\net8.0\Task5.AssemblyInfoInputs.cache
+D:\pohvi\source\repos\CSharpEducation.Practice2\ConsoleApp1\obj\Debug\net8.0\Task5.AssemblyInfo.cs
+D:\pohvi\source\repos\CSharpEducation.Practice2\ConsoleApp1\obj\Debug\net8.0\Task5.csproj.CoreCompileInputs.cache
+D:\pohvi\source\repos\CSharpEducation.Practice2\ConsoleApp1\bin\Debug\net8.0\Task5.exe
+D:\pohvi\source\repos\CSharpEducation.Practice2\ConsoleApp1\bin\Debug\net8.0\Task5.deps.json
+D:\pohvi\source\repos\CSharpEducation.Practice2\ConsoleApp1\bin\Debug\net8.0\Task5.runtimeconfig.json
+D:\pohvi\source\repos\CSharpEducation.Practice2\ConsoleApp1\bin\Debug\net8.0\Task5.dll
+D:\pohvi\source\repos\CSharpEducation.Practice2\ConsoleApp1\bin\Debug\net8.0\Task5.pdb
+D:\pohvi\source\repos\CSharpEducation.Practice2\ConsoleApp1\obj\Debug\net8.0\Task5.dll
+D:\pohvi\source\repos\CSharpEducation.Practice2\ConsoleApp1\obj\Debug\net8.0\refint\Task5.dll
+D:\pohvi\source\repos\CSharpEducation.Practice2\ConsoleApp1\obj\Debug\net8.0\Task5.pdb
+D:\pohvi\source\repos\CSharpEducation.Practice2\ConsoleApp1\obj\Debug\net8.0\Task5.genruntimeconfig.cache
+D:\pohvi\source\repos\CSharpEducation.Practice2\ConsoleApp1\obj\Debug\net8.0\ref\Task5.dll
